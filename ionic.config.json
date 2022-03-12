@@ -1,0 +1,8 @@
+{
+  "name": "tm470app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "44324355"
+}
