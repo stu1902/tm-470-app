@@ -16,7 +16,7 @@ const Tab2: React.FC = () => {
             <IonTitle size="large">TM470 App Setup Page</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 2 page" />
+        <ExploreContainer name="TM470 App Setup Page" />
       </IonContent>
     </IonPage>
   );
