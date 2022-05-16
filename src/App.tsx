@@ -1,4 +1,6 @@
 import { Redirect, Route } from 'react-router-dom';
+import React from 'react';
+import Map from '../src/components/map/map';
 import {
   IonApp,
   IonIcon,
@@ -72,5 +74,14 @@ const App: React.FC = () => (
     </IonReactRouter>
   </IonApp>
 );
+
+
+/*const App: React.FC = () => {
+  return (
+      <div className="App">
+        <Map></Map>
+      </div>
+  );*/
+
 
 export default App;
